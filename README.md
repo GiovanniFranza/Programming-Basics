@@ -25,4 +25,4 @@ SoftUni course Programming Basics - October 2016: All tasks with their solutions
 
 ### [Resources](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/Resources)
 
-## [Exam - 18 December 2016](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/Exam-18.12.2016)
+### [Exam - 18 December 2016](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/Exam-18.12.2016)
