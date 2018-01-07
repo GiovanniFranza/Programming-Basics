@@ -13,15 +13,18 @@ SoftUni course Programming Basics - October 2016: All tasks with their solutions
 
 ## Repository content:
 
-1. [First Steps in Coding](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/01.%20FirstStepsInCoding)
-2. [Simple Calculations](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/02.%20SimpleCalculations)
-3. [Simple Conditions](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/03.%20SimpleConditions)
-4. [Complex Conditions](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/04.%20ComplexConditions)
-5. [Simple Loops](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/05.%20SimpleLoops)
-6. [Drawing with Loops](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/06.%20DrawingWithLoops)
-7. [Advanced Loops](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/07.%20AdvancedLoops)
-8. [Exam Preparation I: Exam - 20 November 2016 Evening](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/08.%20ExamPreparationI)
-9. [Exam Preparation II: Exam - 20 November 2016 Morning](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/09.%20ExamPreparationII)
+Theme                 | Exercises
+----------------------|----------
+First Steps in Coding | [Exercises](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/01.%20FirstStepsInCoding)
+Simple Calculations   | [Exercises](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/02.%20SimpleCalculations)
+Simple Conditions     | [Exercises](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/03.%20SimpleConditions)
+Complex Conditions    | [Exercises](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/04.%20ComplexConditions)
+Simple Loops          | [Exercises](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/05.%20SimpleLoops)
+Drawing with Loops    | [Exercises](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/06.%20DrawingWithLoops)
+Advanced Loops        | [Exercises](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/07.%20AdvancedLoops)
+
+- [Exam Preparation I: Exam - 20 November 2016 Evening](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/08.%20ExamPreparationI)
+- [Exam Preparation II: Exam - 20 November 2016 Morning](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/09.%20ExamPreparationII)
 
 ### [Resources](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/Resources)
 
