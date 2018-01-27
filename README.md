@@ -13,7 +13,7 @@ SoftUni course Programming Basics - October 2016: All tasks with their solutions
 
 ## Repository content:
 
-Theme                 | Exercises
+Tasks                 | Exercises
 ----------------------|----------
 First Steps in Coding | [Exercises](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/01.%20FirstStepsInCoding)
 Simple Calculations   | [Exercises](https://github.com/dobroslav-atanasov/Programming-Basics/tree/master/02.%20SimpleCalculations)
