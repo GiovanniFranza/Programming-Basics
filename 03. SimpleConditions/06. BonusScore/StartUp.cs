@@ -28,5 +28,6 @@ public class StartUp
         }
         Console.WriteLine(bonusScore);
         Console.WriteLine(num + bonusScore);
+        Console.ReadLine();
     }
 }
